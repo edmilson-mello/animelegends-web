@@ -2,11 +2,9 @@ import styles from './styles';
 
 const Button = () => {
     return(
-        <nav>
-           <div>
+        <div>
 
-           </div>
-        </nav>
+        </div>
     )
 }
 
